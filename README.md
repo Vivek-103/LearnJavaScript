@@ -11,3 +11,5 @@ JavaScript is the indispensable engine of the **"Web 2.0"** experience. While HT
 The codes here represents my process of understanding how to build those rich, responsive experiences. 
 
 ### Thank You Sheryians School for the detailed video ###
+[Credit 👉🏻](https://youtu.be/a-wVHL0lpb0?si=yy2Ni9gInhrkrdmZ)
+
