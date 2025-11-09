@@ -8,4 +8,6 @@ This repository **chronicles my journey into learning JavaScript**. I'm tackling
 
 JavaScript is the indispensable engine of the **"Web 2.0"** experience. While HTML provides the skeleton and CSS adds the skin, JavaScript is the nervous system that makes a site do anything. It's the technology that separates static, read-only pages (Web 1.0) from the dynamic, user-driven applications we use every day. Without it, there's no asynchronous data fetching for real-time-updating feeds, no client-side form validation, and no complex, interactive UIs that feel like native applications.
 
-The codes here represents my process of understanding how to build those rich, responsive experiences. It's a log of my experiments in making web pages come to life, handling user events, and interfacing with APIs—all **fundamental skills for building anything meaningful on the modern web**.
+The codes here represents my process of understanding how to build those rich, responsive experiences. 
+
+### Thank You Sheryians School for the detailed video ###
