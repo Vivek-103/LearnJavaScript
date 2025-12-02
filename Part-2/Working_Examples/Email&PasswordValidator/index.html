@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Email & Password Validator</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <main class="card">
+    <h1>Email & Password Validator</h1>
+
+    <form id="form" novalidate>
+      <div class="field">
+        <label for="email">Email</label>
+        <input id="email" type="email" placeholder="your@example.com">
+        <small class="error" id="emailError"></small>
+      </div>
+
+      <div class="field">
+        <label for="password">Password</label>
+        <input id="password" type="password" placeholder="Minimum 8 characters">
+        <div class="pw-strength"><i id="pwBar"></i></div>
+        <small class="error" id="pwError"></small>
+      </div>
+
+      <button type="submit">Validate</button>
+    </form>
+
+    <p id="result" class="result"></p>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
